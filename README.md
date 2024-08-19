@@ -130,20 +130,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-    <!-- contributor-1-start -->
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sandramsc"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/19821445/239707280-a1fe09fb-f3c4-4727-b588-1a433a9e6574.png" width="100px;" alt="Sandra Ashipala"/><br /><sub><b>Sandra Ashipala</b></sub></a><br /><a href="https://github.com/nanogiants/awesome-ai-tools/commits?author=sandramsc" title="Doc">📖</a></td>
-      <!-- contributor-1-end -->
-      <!-- contributor-2-start -->
-          <td align="center" valign="top" width="14.28%"><a href="https://github.com/github_username"><img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png" width="100px;" alt="[NAME]"/><br /><sub><b>[Name]</b></sub></a><br /><a href="https://github.com/nanogiants/awesome-ai-tools/commits?author=sandramsc" title="Bug">🐛</a><a href="https://github.com/nanogiants/awesome-ai-tools/commits?author=sandramsc" title="Code">💻</a></td>
-      <!-- contributor-2-end -->
-      <!-- contributor-3-end -->
-      <!-- contributor-3-end -->
-    </tr>
-  </tbody>
-</table>
+<a href="https://github.com/nanogiants/awesome-ai-tools/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nanogiants/awesome-ai-tools" />
+</a>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
