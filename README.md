@@ -55,32 +55,30 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 - [Machine Learning, AI and Data Landscape 2021](http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/ML-AI-Data-Landscape-2021.pdf): An overview of tools for machine learning, AI and Data science.
 
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
 
 ## Marketing
 
 ### Copy Writing
-
-- [Insta|text](https://instatext.io/): Improves your writing style to sound more professional, casual or whatever you want to achieve.
-
-- [Rytr](https://rytr.me/): AI writing assistant that helps to creat high-quality content.
+- [Insta|text](https://instatext.io/) - Improves your writing style to sound more professional, casual or whatever you want to achieve. 
+- [Rytr](https://rytr.me/) - AI writing assistant the helps creating high-quality content
+- [Taskade](https://taskade.com/) - AI outlining and mind mapping with collaborative real-time editing.
 
 ### Lead Generation
 
 - [Seamless](https://www.seamless.ai/): Connect directly with ideal customers so you can build pipeline, shorten your sales cycle, and close more deals.
 
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+[🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
 
 
 ## Software Development
 
 ### Code Assistant
-
-- [CodeNet](https://github.com/IBM/Project_CodeNet): AI system by IBM that supports the software development process by offering intelligent code search, summarization, completion and code-to-code translation.
-
-- [Codex](https://openai.com/blog/openai-codex/): AI system by Open AI that tranlsates natural language to code.
-
-- [Github Copilot](https://copilot.github.com/): AI system by Github built on top of Codes that translates natural language to code. Can be integrated in many IDEs (such as VS Code).
+- [CodeNet](https://github.com/IBM/Project_CodeNet) - AI system by IBM that supports the software development process by offering intelligent code search, summarization, completion and code-to-code translation
+- [Codex](https://openai.com/blog/openai-codex/) - AI system by Open AI that tranlsates natural language to code
+- [Github Copilot](https://copilot.github.com/) - AI system by Github built on top of Codes that translates natural language to code. Can be integrated in many IDEs (such as VS Code)
+- [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
+- [AIHelperBot](https://aihelperbot.com/) - Build SQL queries using AI
 
 ### Code checking
 
@@ -96,21 +94,25 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 - [Sourcegraph](https://sourcegraph.com/):  AI powered search engine for repositories. Allows not only structured but also contextual search, which is provided by NLP
 
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)
+### Building AI apps
+- [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
+- [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. 
+
+**[back to top](#table-of-contents)**
 
 ## Related work
 
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)[ADD CONTENT HERE]
+[🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
 
 
 ## FAQ
 
-[🔝](https://github.com/sandramsc/awesome-ai-tools#table-of-contents)[ADD CONTENT HERE]
+[🔝](https://github.com/nanogiants/awesome-ai-tools#table-of-contents)
 
 ## Contributing to awesome-ai-tools
 
 If you're working on this project **please check out the
-[CONTRIBUTING.md file](https://github.com/sandramsc/awesome-ai-tools/blob/master/CONTRIBUTING.md)**.
+[CONTRIBUTING.md file](https://github.com/nanogiants/awesome-ai-tools/blob/master/CONTRIBUTING.md)**.
 
 ## Maintainers ⚖️
 <table>
