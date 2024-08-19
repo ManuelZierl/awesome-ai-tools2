@@ -36,6 +36,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 ### Copy Writing
 - [Insta|text](https://instatext.io/) - Improves your writing style to sound more professional, casual or whatever you want to achieve. 
 - [Rytr](https://rytr.me/) - AI writing assistant the helps creating high-quality content
+- [Taskade](https://taskade.com/) - AI outlining and mind mapping with collaborative real-time editing.
 
 ### Lead Generation
 - [Seamless](https://www.seamless.ai/) - Connect directly with ideal customers so you can build pipeline, shorten your sales cycle, and close more deals.
@@ -48,6 +49,7 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 - [Codex](https://openai.com/blog/openai-codex/) - AI system by Open AI that tranlsates natural language to code
 - [Github Copilot](https://copilot.github.com/) - AI system by Github built on top of Codes that translates natural language to code. Can be integrated in many IDEs (such as VS Code)
 - [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
+- [AIHelperBot](https://aihelperbot.com/) - Build SQL queries using AI
 
 ### Code checking
 - [Gitguardian](https://www.gitguardian.com/) - Tool that monitors public and private repositories for leaked API keys, database credentials, certificates and other security issues
@@ -58,6 +60,12 @@ If you want to contribute to this list, send a PR! Thanks for your awesome contr
 
 ### Searching
 - [Sourcegraph](https://sourcegraph.com/) - AI powered search engine for repositories. Allows not only structured but also contextual search, which is provided by NLP
+
+### Building AI apps
+- [Helicone AI](https://github.com/Helicone/helicone) - Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
+- [Dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. 
+
+
 
 **[back to top](#table-of-contents)**
 
